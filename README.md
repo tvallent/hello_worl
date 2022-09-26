@@ -1,2 +1,2 @@
-# hello_worl
+# hello_world
 first_github_repository_with_ALX
